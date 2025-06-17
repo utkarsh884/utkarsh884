@@ -1,93 +1,54 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">Information Technology Graduate | Aspiring ML Engineer | Tech Explorer</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Utkarsh Singh and I'm a recent Information Technology graduate from Pune, India.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=UtkarshSingh3773&label=Profile%20views&color=0e75b6&style=flat" alt="UtkarshSingh3773" />
+✨ Creating bugs since 2020 (college start year)<br>
+📚 I'm currently learning advanced Machine Learning, NLP pipelines, and deployment workflows<br>
+🎯 Goals: To become a Machine Learning Engineer and contribute to impactful open-source AI projects<br>
+🎲 Fun fact: I love automating repetitive tasks and I find debugging almost therapeutic
 </p>
 
-- 🌱 I’m currently working on **ML & NLP-based projects**
+###
 
-- 🎓 I completed my **B.Tech in Information Technology** from D.Y. Patil College of Engineering, Akurdi in **June 2024**
+<h2 align="left">I code with</h2>
 
-- 📫 How to reach me **utkarshsingh.3773@gmail.com**
+###
 
-- 💻 All of my projects are available at [My GitHub](https://github.com/UtkarshSingh3773)
-
----
-
-### 🛠️ Languages and Tools:
-
-#### 💻 Programming:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-#### 🌐 Frontend:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-#### 🖥️ Backend & Database:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
-
-#### 📊 Data Science / ML:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-#### 🧰 Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-#### 🔹 [House Price Prediction](https://github.com/utkarsh884/House-Price-Prediction)
-> Developed ML models to estimate house prices with data preprocessing, feature engineering, and evaluation.  
-> _Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook_
-
-#### 🔹 [PDF Language Model](https://github.com/utkarsh884/PDF-Language-Model)
-> Created NLP pipeline for extracting and analyzing structured data from PDFs.  
-> _Tools: PyPDF2/pdfplumber, NLTK, spaCy, Transformers, Pandas, Scikit-learn_
-
-#### 🔹 [Audio-to-Speech Recognition](https://github.com/utkarsh884/Audio-to-speech-recognition)
-> Implemented a speech-to-text model with audio processing and transcription accuracy evaluation.  
-> _Tools: SpeechRecognition, librosa, Pandas, Wav2Vec 2.0, Jupyter Notebook_
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshSingh3773&show_icons=true&locale=en" alt="Utkarsh GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshSingh3773" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshSingh3773&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/UtkarshSingh3773)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utkarshsingh.3773@gmail.com)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
