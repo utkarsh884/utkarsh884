@@ -1,8 +1,3 @@
-Here’s the updated GitHub README markdown with your **graduation status reflected correctly**:
-
----
-
-
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">Information Technology Graduate | Aspiring ML Engineer | Tech Explorer</h3>
 
@@ -96,6 +91,3 @@ Here’s the updated GitHub README markdown with your **graduation status reflec
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/UtkarshSingh3773)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:utkarshsingh.3773@gmail.com)
-
-
----
