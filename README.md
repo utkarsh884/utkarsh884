@@ -13,11 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:utkarshsingh.3773@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="30" />
+  </a>
   <a href="https://linkedin.com/in/utkarshanoopsingh" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="utkarshanoopsingh" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="https://github.com/utkarsh884" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="utkarsh884" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
   </a>
 </p>
 
