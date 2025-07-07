@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=utkarsh884&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh884" />
 </p>
 
-- 🌱 I’m currently learning **MLOps, Docker**
+- 🌱 I’m currently learning **MLOps, Docker, Excel**
 
 - 🤝 I’m looking to collaborate on **open source ML projects**
 
 - 📫 How to reach me **utkarshsingh.3773@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +25,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -57,6 +61,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
   </a>
 </p>
+
+---
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
